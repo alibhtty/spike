@@ -150,8 +150,8 @@
   <script
     data-locksmith>Locksmith.jsonTag = "\u003cscript type=\"application\/vnd.locksmith+json\" data-locksmith\u003e{\"version\":\"v6.27\",\"locked\":false,\"initialized\":true,\"scope\":\"index\",\"access_granted\":true,\"access_denied\":false,\"requires_customer\":false,\"manual_lock\":false,\"server_lock\":false,\"server_rendered\":null,\"hide_resource\":false,\"hide_links_to_resource\":false,\"transparent\":true,\"locks\":{\"all\":[],\"opened\":[]},\"keys\":[],\"keys_signature\":\"ca3bc54c2c978107b7f74cefd8c843d89ad8790d39f0ecc014c28eb0f3519ffe\",\"state\":{\"template\":\"index\",\"theme\":120220581967,\"product\":null,\"collection\":null,\"page\":null,\"blog\":null,\"article\":null,\"app\":null},\"now\":1642819734,\"path\":\"\\\/\",\"locale_root_url\":null,\"canonical_url\":\"https:\\\/\\\/shop.spacex.com\\\/\",\"customer_id\":null,\"customer_id_signature\":\"ca3bc54c2c978107b7f74cefd8c843d89ad8790d39f0ecc014c28eb0f3519ffe\",\"cart\":null}\u003c\/script\u003e"; Locksmith.jsonTagSignature = "ef1875bb1a4cbce293845c0dc5005de0b0f9faa4f1b3419e3fa24954d8c6bc6b"</script>
 
-  <link rel="stylesheet"
-    href="https://cdn.shopify.com/s/files/1/0261/2615/5855/t/18/assets/theme.scss.css?v=1809938261960544844">
+  <!-- <link rel="stylesheet" href="https://cdn.shopify.com/s/files/1/0261/2615/5855/t/18/assets/theme.scss.css?v=1809938261960544844"> -->
+  <link rel="stylesheet" href="css/style.css">
 
   <script>
     // This allows to expose several variables to the global scope, to be used in scripts
@@ -554,7 +554,7 @@
     })();</script> -->
 </head>
 
-<body class="prestige--v4  template-index">
+<body class="prestige--v4  template-index" style="background-color: #000000;">
   <a class="PageSkipLink u-visually-hidden" href="index.html#main">Skip to content</a>
   <span class="LoadingBar"></span>
   <div class="PageOverlay"></div>
@@ -563,7 +563,7 @@
   <div id="shopify-section-popup" class="shopify-section"></div>
   <div id="shopify-section-sidebar-menu" class="shopify-section">
 
-<!-- MENU -->    
+<!-- MENU VERTICAL -->    
     <section id="sidebar-menu" class="SidebarMenu Drawer Drawer--small Drawer--fromLeft" aria-hidden="true"
       data-section-id="sidebar-menu" data-section-type="sidebar-menu">
       <header class="Drawer__Header" data-drawer-animated-left>
@@ -578,28 +578,60 @@
           <div class="Drawer__Container">
             <nav class="SidebarMenu__Nav SidebarMenu__Nav--primary" aria-label="Sidebar navigation">
 
+              <!-- DESTACADOS -->
               <div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible"
-                  aria-expanded="false">Accessories<span class="Collapsible__Plus"></span>
+                  aria-expanded="false">Destacados<span class="Collapsible__Plus"></span>
                 </button>
-
+              
                 <div class="Collapsible__Inner">
                   <div class="Collapsible__Content">
-                    <div class="Collapsible"><a href="collections/accessories.html"
-                        class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">View All</a></div>
+                    <div class="Collapsible"><a href="/collections/mens-shirts"
+                        class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Aceite de CBD</a></div>
+                    <div class="Collapsible"><a href="/collections/outerwear"
+                        class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Crema de CBD</a></div>
+                    <div class="Collapsible"><a href="/collections/mens"
+                        class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Ver todo</a></div>
                   </div>
                 </div>
               </div>
-              <div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible"
-                  aria-expanded="false">Premium<span class="Collapsible__Plus"></span>
-                </button>
+              <!-- END DESTACADOS -->
 
-                <div class="Collapsible__Inner">
-                  <div class="Collapsible__Content">
-                    <div class="Collapsible"><a href="collections/premium.html"
-                        class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">View All</a></div>
-                  </div>
+              <!-- PRODUCTOS -->
+              <div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible"
+                aria-expanded="false">Productos<span class="Collapsible__Plus"></span>
+              </button>
+            
+              <div class="Collapsible__Inner">
+                <div class="Collapsible__Content">
+                  <div class="Collapsible"><a href="/collections/mens-shirts"
+                      class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Resina Aromática</a></div>
+                  <div class="Collapsible"><a href="/collections/outerwear"
+                      class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Flor Aromática</a></div>
+                  <div class="Collapsible"><a href="/collections/mens"
+                      class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Ver todo</a></div>
                 </div>
               </div>
+            </div>
+            <!-- END PRODUCTOS -->
+
+            <!-- FAQ -->
+            <div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible"
+              aria-expanded="false">Preguntas Frecuentes<span class="Collapsible__Plus"></span>
+            </button>
+          
+            <div class="Collapsible__Inner">
+              <div class="Collapsible__Content">
+                <div class="Collapsible"><a href="/collections/mens-shirts"
+                    class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Cuanto tarde en llegar mi prducto?</a></div>
+                <div class="Collapsible"><a href="/collections/outerwear"
+                    class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Cual es el marco legal?</a></div>
+                <div class="Collapsible"><a href="/collections/mens"
+                    class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Ver todo</a></div>
+              </div>
+            </div>
+          </div>
+          <!-- END FAQ -->
+
             </nav>
             <nav class="SidebarMenu__Nav SidebarMenu__Nav--secondary">
               <ul class="Linklist Linklist--spacingLoose">
@@ -632,7 +664,7 @@
 
     <form class="Cart Drawer__Content" action="/cart" method="POST" novalidate>
       <div class="Drawer__Main" data-scrollable>
-        <p class="Cart__Empty Heading u-h5">Your cart is empty</p>
+        <p class="Cart__Empty Heading u-h5">Tu carrito está vacío</p>
       </div>
     </form>
   </div>
@@ -655,6 +687,18 @@
           background: #000000;
           color: #ffffff;
         }
+        .SidebarMenu {
+          background-color: #000000;
+          width: 100%;
+        }
+        .SidebarMenu .Heading, .supports-hover .SidebarMenu .Link--primary:hover {
+          color: whitesmoke;
+        }
+        .SidebarMenu .Drawer__Content:before {
+          top: 0;
+          height: 25px;
+          background-image: linear-gradient(black,rgba(0,0,0,.6) 40%,rgba(255,255,255,0));
+        }
       </style>
 
       <script>
@@ -662,6 +706,8 @@
       </script>
     </div>
     <div id="shopify-section-header" class="shopify-section shopify-section--header">
+
+<!-- SEARCH -->      
       <div id="Search" class="Search" aria-hidden="true">
         <div class="Search__Inner">
           <div class="Search__SearchBar">
@@ -887,9 +933,11 @@
     </div>
 
 <!-- MAIN -->    
-    <main id="main" role="main">
+    <main id="main" role="main" style="background-color: #ffffff;">
       <!-- BEGIN content_for_index -->
       <div id="shopify-section-slideshow" class="shopify-section shopify-section--slideshow">
+
+<!-- PORTADA -->
         <section id="section-slideshow" data-section-id="slideshow" data-section-type="slideshow">
           <div class="Slideshow ">
             <div class="Slideshow__Carousel  Carousel Carousel--fadeIn  Carousel--insideDots" data-flickity-config='{
@@ -971,7 +1019,7 @@
       </div>
       <div id="shopify-section-1565672775541" class="shopify-section shopify-section--bordered">
 
-<!-- PRODUCTOS DESTCADOS -->        
+<!-- PRODUCTOS DESTACADOS -->        
         <section class="Section Section--spacingNormal" data-section-id="1565672775541"
           data-section-type="featured-collections" data-settings='{
   "layout": "grid"
@@ -981,10 +1029,13 @@
               <h2 class="SectionHeader__Heading Heading u-h1">Productos Destacados</h2>
             </div>
           </header>
+
           <div class="TabPanel" id="block-1565672775541-0" aria-hidden="false" role="tabpanel">
             <div class="ProductListWrapper">
               <div class="ProductList ProductList--grid ProductList--removeMargin Grid" data-mobile-count="2"
                 data-desktop-count="2">
+                
+                <!-- DESTACADO 1 -->
                 <script type="application/json" class="bold-product-json">
 {"id":4830507171919,"title":"Men's Bomber Jacket","handle":"mens-bomber-jacket","description":"","published_at":"2021-11-29T08:28:39-08:00","created_at":"2020-11-12T10:23:41-08:00","vendor":"SpaceX Store","type":"Premium","tags":["__tab1:sc21","crew dragon","Crew-1","Dragon","featured products","Main Site","Men Jacket","Mens","Mens: Outerwear","Premium"],"price":14000,"price_min":14000,"price_max":14000,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":32721622401103,"title":"Black \/ S","option1":"Black","option2":"S","option3":null,"sku":"MNBOMBBLKS","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ S","public_title":"Black \/ S","options":["Black","S"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433106","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32721622892623,"title":"Black \/ M","option1":"Black","option2":"M","option3":null,"sku":"MNBOMBBLKM","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ M","public_title":"Black \/ M","options":["Black","M"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433113","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32721623285839,"title":"Black \/ L","option1":"Black","option2":"L","option3":null,"sku":"MNBOMBBLKL","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ L","public_title":"Black \/ L","options":["Black","L"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433120","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32721623908431,"title":"Black \/ XL","option1":"Black","option2":"XL","option3":null,"sku":"MNBOMBBLKXL","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ XL","public_title":"Black \/ XL","options":["Black","XL"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433137","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32721624399951,"title":"Black \/ 2XL","option1":"Black","option2":"2XL","option3":null,"sku":"MNBOMBBLK2XL","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ 2XL","public_title":"Black \/ 2XL","options":["Black","2XL"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433144","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":32721624498255,"title":"Black \/ 3XL","option1":"Black","option2":"3XL","option3":null,"sku":"MNBOMBBLK3XL","requires_shipping":true,"taxable":true,"featured_image":{"id":28913866735695,"product_id":4830507171919,"position":1,"created_at":"2021-11-16T15:12:58-08:00","updated_at":"2021-11-16T15:12:59-08:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","variant_ids":[32721622401103,32721622892623,32721623285839,32721623908431,32721624399951,32721624498255]},"available":true,"name":"Men's Bomber Jacket - Black \/ 3XL","public_title":"Black \/ 3XL","options":["Black","3XL"],"price":14000,"weight":680,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540433151","featured_media":{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"}},"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_BACK.png?v=1637104345","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL1.png?v=1637104344","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL2.png?v=1637104344"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","options":["Color","Size"],"media":[{"alt":null,"id":21307786231887,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379","width":900},{"alt":null,"id":21307785838671,"position":2,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_BACK.png?v=1637104345"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_BACK.png?v=1637104345","width":900},{"alt":null,"id":21307785871439,"position":3,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL1.png?v=1637104344"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL1.png?v=1637104344","width":900},{"alt":null,"id":21307785904207,"position":4,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL2.png?v=1637104344"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/MENS_BOMBER_BLACK_DETAIL2.png?v=1637104344","width":900}],"requires_selling_plan":false,"selling_plan_groups":[],"content":""}
 </script>
@@ -1015,8 +1066,7 @@
                       </a>
                       <div class="ProductItem__Info ProductItem__Info--center">
                         <h2 class="ProductItem__Title Heading">
-                          <a href="collections/featured-products/products/mens-bomber-jacket.html">Men's Bomber
-                            Jacket</a>
+                          <a href="collections/featured-products/products/mens-bomber-jacket.html">Aceite de CBD</a>
                         </h2>
                         <div class="ProductItem__PriceList  Heading"><span
                             class="ProductItem__Price Price Text--subdued two" data-money-convertible><span
@@ -1025,6 +1075,8 @@
                     </div>
                   </div>
                 </div>
+
+                <!-- DESTACADO 2 -->
                 <script type="application/json" class="bold-product-json">
 {"id":6596922409039,"title":"Unisex Starship Pullover Hoodie","handle":"unisex-starship-pullover-hoodie","description":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cp data-mce-fragment=\"1\"\u003e\u003cstrong\u003eMade in the U.S.A.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eFabric Content:\u003c\/strong\u003e\u003cbr\u003e• 100% cotton \u003cbr\u003e• 14oz. premium heavyweight fleece \u003cbr\u003e• Due to the custom dye process, natural variances in color may occur\u003c\/p\u003e","published_at":"2021-10-18T11:13:38-07:00","created_at":"2021-07-30T15:53:02-07:00","vendor":"SpaceX Store","type":"Mens","tags":["__tab1:sc28","featured products","Hoodie","Main Site","Mars","Mens","Mens: Outerwear","Occupy Mars","Premium","Starship","Sweatshirt","unisex","Womens","Womens: Outerwear"],"price":6500,"price_min":6500,"price_max":6500,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":39514798915663,"title":"Cream \/ S","option1":"Cream","option2":"S","option3":null,"sku":"SPXSTARSHIP2HOODS","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ S","public_title":"Cream \/ S","options":["Cream","S"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436459","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514798948431,"title":"Cream \/ M","option1":"Cream","option2":"M","option3":null,"sku":"SPXSTARSHIP2HOODM","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ M","public_title":"Cream \/ M","options":["Cream","M"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436466","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514798981199,"title":"Cream \/ L","option1":"Cream","option2":"L","option3":null,"sku":"SPXSTARSHIP2HOODL","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ L","public_title":"Cream \/ L","options":["Cream","L"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436473","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514799013967,"title":"Cream \/ XL","option1":"Cream","option2":"XL","option3":null,"sku":"SPXSTARSHIP2HOODXL","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ XL","public_title":"Cream \/ XL","options":["Cream","XL"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436480","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514799046735,"title":"Cream \/ 2X","option1":"Cream","option2":"2X","option3":null,"sku":"SPXSTARSHIP2HOOD2XL","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ 2X","public_title":"Cream \/ 2X","options":["Cream","2X"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436497","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514799079503,"title":"Cream \/ 3X","option1":"Cream","option2":"3X","option3":null,"sku":"SPXSTARSHIP2HOOD3XL","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ 3X","public_title":"Cream \/ 3X","options":["Cream","3X"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436503","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":39514799112271,"title":"Cream \/ 4X","option1":"Cream","option2":"4X","option3":null,"sku":"SPXSTARSHIP2HOOD4XL","requires_shipping":true,"taxable":true,"featured_image":{"id":28786336989263,"product_id":6596922409039,"position":1,"created_at":"2021-10-18T11:41:52-07:00","updated_at":"2021-10-18T11:41:53-07:00","alt":null,"width":900,"height":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","variant_ids":[39514798915663,39514798948431,39514798981199,39514799013967,39514799046735,39514799079503,39514799112271]},"available":true,"name":"Unisex Starship Pullover Hoodie - Cream \/ 4X","public_title":"Cream \/ 4X","options":["Cream","4X"],"price":6500,"weight":1134,"compare_at_price":null,"inventory_management":"shopify","barcode":"723540436510","featured_media":{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"}},"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_FRONTcopy.png?v=1634582531","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL1.png?v=1631657068","\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL2.png?v=1631657069"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","options":["Color","Size"],"media":[{"alt":null,"id":21178929414223,"position":1,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513","width":900},{"alt":null,"id":21178930331727,"position":2,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_FRONTcopy.png?v=1634582531"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_FRONTcopy.png?v=1634582531","width":900},{"alt":null,"id":21036073844815,"position":3,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL1.png?v=1631657068"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL1.png?v=1631657068","width":900},{"alt":null,"id":21036073877583,"position":4,"preview_image":{"aspect_ratio":1.0,"height":900,"width":900,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL2.png?v=1631657069"},"aspect_ratio":1.0,"height":900,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0261\/2615\/5855\/products\/UNISEX_STARSHIP_PULLOVER_BONE_DETAIL2.png?v=1631657069","width":900}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cmeta charset=\"utf-8\"\u003e\n\u003cp data-mce-fragment=\"1\"\u003e\u003cstrong\u003eMade in the U.S.A.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eFabric Content:\u003c\/strong\u003e\u003cbr\u003e• 100% cotton \u003cbr\u003e• 14oz. premium heavyweight fleece \u003cbr\u003e• Due to the custom dye process, natural variances in color may occur\u003c\/p\u003e"}
 </script>
@@ -1057,8 +1109,7 @@
                       </a>
                       <div class="ProductItem__Info ProductItem__Info--center">
                         <h2 class="ProductItem__Title Heading">
-                          <a href="collections/featured-products/products/unisex-starship-pullover-hoodie.html">Unisex
-                            Starship Pullover Hoodie</a>
+                          <a href="collections/featured-products/products/unisex-starship-pullover-hoodie.html">Crema de CBD</a>
                         </h2>
                         <div class="ProductItem__PriceList  Heading"><span
                             class="ProductItem__Price Price Text--subdued two" data-money-convertible><span
@@ -1067,13 +1118,16 @@
                     </div>
                   </div>
                 </div>
+
               </div>
             </div>
+
             <div class="Container">
               <div class="SectionFooter">
                 <a href="collections/featured-products.html" class="Button Button--primary">Ver mas Destacados</a>
               </div>
             </div>
+
           </div>
         </section>
       </div>
@@ -1100,7 +1154,7 @@
 
                 <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
                   <header class="SectionHeader">
-                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">NUKE&#39;s</h2>
+                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">RESINA AROMÁTICA</h2>
 
                     <div class="SectionHeader__ButtonWrapper"><a href="collections/womens.html"
                         class="CollectionItem__Link Button">Ver productos</a></div>
@@ -1126,7 +1180,7 @@
 
                 <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
                   <header class="SectionHeader">
-                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">Men&#39;s</h2>
+                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">FLOR AROMÁTICA</h2>
 
                     <div class="SectionHeader__ButtonWrapper"><a href="collections/mens.html"
                         class="CollectionItem__Link Button">Ver productos</a></div>
@@ -1152,7 +1206,7 @@
 
                 <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
                   <header class="SectionHeader">
-                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">SKIN</h2>
+                    <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">Aceite de CBD</h2>
 
                     <div class="SectionHeader__ButtonWrapper"><a href="collections/accessories.html"
                         class="CollectionItem__Link Button">Ver productos</a></div>
@@ -1168,6 +1222,9 @@
           #section-collection-list .CollectionItem .Heading,
           #section-collection-list .flickity-page-dots {
             color: #ffffff;
+            font-size: 32px;
+            font-weight: 600;
+            line-height: 1.2;
           }
 
           #section-collection-list .CollectionItem__Link {
@@ -1215,6 +1272,7 @@
       </script>
     </main>
 
+<!-- FOOTER -->    
     <div id="shopify-section-footer" class="shopify-section shopify-section--footer">
       <footer id="section-footer" class="Footer Footer--center " role="contentinfo">
         <div class="Container">
