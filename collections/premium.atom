@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.spacex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.spacex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.spacex.com/collections/premium.atom"/>
+  <title>SpaceX Store</title>
+  <updated>2021-12-03T09:30:32-08:00</updated>
+  <author>
+    <name>SpaceX Store</name>
+  </author>
+  <entry>
+    <id>https://shop.spacex.com/products/6645951496271</id>
+    <published>2021-12-03T09:30:32-08:00</published>
+    <updated>2021-12-03T09:30:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/copy-of-womens-bomber-jacket"/>
+    <title>Women&apos;s Bomber Jacket</title>
+    <s:type>Premium</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS_BOMBER_BLACK_FRONT2_edit2_852a381b-01d9-4f02-b0f1-cbd7704b6ef8.png?v=1637698026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Premium<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:sc22</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Jacket</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Womens</s:tag>
+    <s:tag>Womens: Outerwear</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / S</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLKS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / M</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLKM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / L</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLKL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLKXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / 2X</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLK2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Black / 3X</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBBLK3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / S</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHRS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / M</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHRM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / L</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHRL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHRXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / 2X</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHR2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6645951496271</id>
+      <title>Charcoal / 3X</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>WMNBOMBCHR3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4830507171919</id>
+    <published>2021-11-29T08:28:39-08:00</published>
+    <updated>2021-11-29T08:28:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/mens-bomber-jacket"/>
+    <title>Men&apos;s Bomber Jacket</title>
+    <s:type>Premium</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS_BOMBER_BLACK_FRONT2.png?v=1637104379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Premium<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:sc21</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Crew-1</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>featured products</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Men Jacket</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Mens: Outerwear</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / S</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLKS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / M</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLKM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / L</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLKL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLKXL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLK2XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4830507171919</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>MNBOMBBLK3XL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6596922409039</id>
+    <published>2021-10-18T11:13:38-07:00</published>
+    <updated>2021-10-18T11:13:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/unisex-starship-pullover-hoodie"/>
+    <title>Unisex Starship Pullover Hoodie</title>
+    <s:type>Mens</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_STARSHIP_PULLOVER_BONE_BACKcopy.png?v=1634582513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Mens<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><strong>Made in the U.S.A.</strong></p>
+<p><strong>Fabric Content:</strong><br>• 100% cotton <br>• 14oz. premium heavyweight fleece <br>• Due to the custom dye process, natural variances in color may occur</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:sc28</s:tag>
+    <s:tag>featured products</s:tag>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Mens: Outerwear</s:tag>
+    <s:tag>Occupy Mars</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Starship</s:tag>
+    <s:tag>Sweatshirt</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>Womens</s:tag>
+    <s:tag>Womens: Outerwear</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOODS</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOODM</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOODL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOODXL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / 2X</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOOD2XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / 3X</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOOD3XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6596922409039</id>
+      <title>Cream / 4X</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>SPXSTARSHIP2HOOD4XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6574277886031</id>
+    <published>2021-07-01T10:22:34-07:00</published>
+    <updated>2021-07-01T10:22:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-starship-crew-sweatshirt"/>
+    <title>Unisex Starship Crew Sweatshirt</title>
+    <s:type>Mens</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/UNISEX_SPACEX_SWEATSHIRT_ROYAL_BLUE_FRONT-4952.png?v=1631678160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Mens<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Made in the U.S.A.</strong></p>
+<strong>Fabric Content:</strong><br>• 100% cotton
+<p>• 8.5oz. premium French Terry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:sc27</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Mens: Outerwear</s:tag>
+    <s:tag>Occupy</s:tag>
+    <s:tag>Occupy Mars</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:tag>Starship</s:tag>
+    <s:tag>Sweatshirt</s:tag>
+    <s:tag>Womens</s:tag>
+    <s:tag>Womens: Outerwear</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREWS</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREWM</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREWL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>XL / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREWXL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>2X / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREW2XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>3X / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREW3XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6574277886031</id>
+      <title>4X / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SPXSTARSHIPCREW4XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4874354262095</id>
+    <published>2021-03-09T09:44:29-08:00</published>
+    <updated>2021-03-09T09:44:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-back-pack"/>
+    <title>SpaceX Backpack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7630.png?v=1615235953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Product Details:</strong><br>• Nylon canvas with matte canvas contrast<br>• Interior padded storage compartment for a 15" laptop<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Two-way water resistant zippers<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Interior zipped pockets<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Briefcase handle<br><span data-mce-fragment="1"><meta charset="utf-8">• Stash pockets on each side of the bag</span><br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 12" W x 18" H x 6" D</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4874354262095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>SPXCORPPACK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4874358423631</id>
+    <published>2021-03-09T09:43:23-08:00</published>
+    <updated>2021-03-09T09:43:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-duffel"/>
+    <title>SpaceX Duffel</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7644.png?v=1615236465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Product Details:</strong><br>• Nylon canvas with matte canvas contrast<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Water resistant zippers with faux leather pullers<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Removable padded shoulder strap<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Self carrying handle with matte black snaps<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Exterior zipped pocket with trolley sleeve<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Stash pockets on each side of the bag<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 22" L x 14" H x 9" W <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4874358423631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>SPXCBNDFFL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

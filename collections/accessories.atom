@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.spacex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.spacex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.spacex.com/collections/accessories.atom"/>
+  <title>SpaceX Store</title>
+  <updated>2021-11-29T18:32:15-08:00</updated>
+  <author>
+    <name>SpaceX Store</name>
+  </author>
+  <entry>
+    <id>https://shop.spacex.com/products/6642826870863</id>
+    <published>2021-11-29T18:32:15-08:00</published>
+    <updated>2021-11-29T18:32:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-journal"/>
+    <title>SpaceX Journal</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SPACEX_JOURNAL_front.png?v=1637612035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Product Details:</strong><br>• 5.25" x 8.25" <br>• Flexible, perfect bound journal with side scorings for easy opening<br><span data-mce-fragment="1">• Flat elastic closure &amp; rounded corners  </span><br><span data-mce-fragment="1">• 100 standard lined white sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Notebook</s:tag>
+    <s:tag>Pen</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6642826870863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SPXJOURNAL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6546333925455</id>
+    <published>2021-11-08T19:38:53-08:00</published>
+    <updated>2021-11-08T19:38:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-crew-2-mission-patch"/>
+    <title>SpaceX Crew-2 Mission Patch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Crew-2_missionpatch_UPDATEDcopy.png?v=1636404445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Crew-2</s:tag>
+    <s:tag>Mission Patch</s:tag>
+    <s:tag>Mission Patches</s:tag>
+    <s:tag>NASA</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6546333925455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>CREW2MSNPTCH</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6628332273743</id>
+    <published>2021-10-18T13:20:09-07:00</published>
+    <updated>2021-10-18T13:20:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/copy-of-starlink-adjustable-cap"/>
+    <title>Starlink Adjustable Cap</title>
+    <s:type></s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_StarlinkAdjustable_89b6913b-9f97-43f2-8b4c-d557fb84b41a.png?v=1634588243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1">Size:</strong><br data-mce-fragment="1"><span data-mce-fragment="1">• One size fits most</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>adjustable</s:tag>
+    <s:tag>adjustable hat</s:tag>
+    <s:tag>cap</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Main</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Starlink</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6628332273743</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>STRLNKADJUSTHAT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6603918082127</id>
+    <published>2021-09-15T09:05:40-07:00</published>
+    <updated>2021-09-15T09:05:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-water-bottle"/>
+    <title>SpaceX Water Bottle</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SpaceX_Bottle_Front.png?v=1629480342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product Details:</strong><br>• Stainless Steel<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 21 oz<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> BPA Free<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 24 hours cold<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 12 hours hot</p>
+<p><meta charset="utf-8"><strong data-mce-fragment="1">Care Instructions:</strong><br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Do not freeze<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Do not microwave<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Dishwasher may affect the paint and print<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Hand washing is recommended</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>inspiration</s:tag>
+    <s:tag>Inspiration 4</s:tag>
+    <s:tag>Inspiration4</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:tag>Water</s:tag>
+    <s:tag>Water Bottle</s:tag>
+    <s:tag>Waterbottle</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6603918082127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SPXWTRBTLWHT</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6572910444623</id>
+    <published>2021-07-28T07:05:27-07:00</published>
+    <updated>2021-07-28T07:05:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/occupy-mars-heat-sensitive-terraforming-mug-new"/>
+    <title>Occupy Mars &quot;Heat Sensitive&quot; Terraforming Mug</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Mug_Occupy_Mars_SPXTERRAMUG_FRONT-B_d1867bc6-63f3-4e42-8d1d-1718f81aed0c.png?v=1622576297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong data-mce-fragment="1">Size: </strong><br>• 15 oz.</p>
+<strong>Care Instructions:</strong><br>• Not microwave safe <br>• Not dishwasher safe</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Heat Sensitive</s:tag>
+    <s:tag>Main</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Occupy</s:tag>
+    <s:tag>Terrforming</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6572910444623</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OCPYMARSMUG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6579230900303</id>
+    <published>2021-07-15T09:10:18-07:00</published>
+    <updated>2021-07-15T09:10:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/remove-before-flight-key-chains-1"/>
+    <title>Remove Before Flight Key Chains</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBF_Starshipv4.png?v=1634059737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Key chains come in a (2) pack and includes:</strong><br>• (1) Front: Starship Vehicle, Back: <meta charset="utf-8">Remove Before Flight or<br><meta charset="utf-8"><span>• (1) Front: <meta charset="utf-8">SpaceX logo,</span><span> Back: <meta charset="utf-8">Remove Before Flight</span>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Astronaut</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mars</s:tag>
+    <s:tag>Moon</s:tag>
+    <s:tag>RBF</s:tag>
+    <s:tag>Remove Before Flight</s:tag>
+    <s:tag>Starship</s:tag>
+    <s:tag>Texas</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6579230900303</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>SPXRBFKEYSTRSHP</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6564653793359</id>
+    <published>2021-07-15T09:07:03-07:00</published>
+    <updated>2021-07-15T09:07:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/x-adjustable-cap"/>
+    <title>X Adjustable Cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_XAdjustable_front.png?v=1623185349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Size:</strong><br>• One size fits most</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>adjustable hat</s:tag>
+    <s:tag>cap</s:tag>
+    <s:tag>hat</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6564653793359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>XADJUSTHAT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6557326147663</id>
+    <published>2021-07-01T06:12:35-07:00</published>
+    <updated>2021-07-01T06:12:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/starship-poster-pack"/>
+    <title>Starship Poster Pack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/group.png?v=1630523692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Posters come in a (3) pack:</strong> <br><span>• 18" x 24"</span> <br><span>• Gloss finish</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Picture</s:tag>
+    <s:tag>Poster</s:tag>
+    <s:tag>Starship</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6557326147663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>STARSHIPPOSTERPK</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6557638525007</id>
+    <published>2021-04-22T22:26:56-07:00</published>
+    <updated>2021-04-22T22:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/mission-patch-collection-5"/>
+    <title>Mission Patch Collection 5</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group5.png?v=1619153987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Mission Patch Collection 5 includes:</strong><br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Iridium-1<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-10<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> EchoStar 23<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> SES-10<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> NROL-76<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Inmarsat-5 F4<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-11<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> BulgariaSat-1<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Iridium-2<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Intelsat-35<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-12<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Formosat-5<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> OTV-5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>Crew-2</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mission Patch</s:tag>
+    <s:tag>Mission Patches</s:tag>
+    <s:tag>no-notify</s:tag>
+    <s:tag>Patch Collection</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6557638525007</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>MSNPATCHCOL5</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6557637476431</id>
+    <published>2021-04-22T22:25:10-07:00</published>
+    <updated>2021-04-22T22:25:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/mission-patch-collection-3"/>
+    <title>Mission Patch Collection 3</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group3.png?v=1619153587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Mission Patch Collection 3 includes:</strong><br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-5<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> DSCOVR<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> ABS/Eutelsat-1<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-6<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Thales</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>Crew 2</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mission Patch</s:tag>
+    <s:tag>Mission Patches</s:tag>
+    <s:tag>no-notify</s:tag>
+    <s:tag>Patch Collection</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6557637476431</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>MSNPATCHCOL3</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6557634429007</id>
+    <published>2021-04-22T22:24:48-07:00</published>
+    <updated>2021-04-22T22:24:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/mission-patch-collection-2"/>
+    <title>Mission Patch Collection 2</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Group2.png?v=1619153361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Mission Patch Collection 2 includes:</strong><br>• Thaicom<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-3<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Orbcomm<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> AsiaSat8<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> AsiaSat6<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> CRS-4</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Crew 2</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>F9</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Mission Patch</s:tag>
+    <s:tag>Mission Patches</s:tag>
+    <s:tag>no-notify</s:tag>
+    <s:tag>Patch Collection</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6557634429007</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>MSNPATCHCOL2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6546335137871</id>
+    <published>2021-04-22T22:22:11-07:00</published>
+    <updated>2021-04-22T22:22:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-schematic-sticker-pack"/>
+    <title>SpaceX Schematic Sticker Pack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/schematicstickerpack2_UPDATEDrapcopy.png?v=1626712224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>SpaceX Schematic Sticker Pack:</strong><br>• X logo<br>• Helmet<br>• Dragon vehicle<br>• International Space Station with Dragon vehicle<br>• Raptor engine</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>Crew 2</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Crew-1</s:tag>
+    <s:tag>Decal Pack</s:tag>
+    <s:tag>Decals</s:tag>
+    <s:tag>Demo-1</s:tag>
+    <s:tag>Demo-2</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Occupy</s:tag>
+    <s:tag>Occupy Mars</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:tag>Sticker</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6546335137871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>SPXSTICKERPACK</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6553117130831</id>
+    <published>2021-04-22T22:21:04-07:00</published>
+    <updated>2021-04-22T22:21:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/remove-before-flight-key-chains"/>
+    <title>Remove Before Flight Key Chains</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBF._Fairing.png?v=1619130327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key chains come in a (2) pack and includes either:</strong><br><span>• Fairing Vehicle and SpaceX logo or</span><br><span>• Dragon Vehicle and SpaceX logo</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>Crew 2</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Demo-2</s:tag>
+    <s:tag>Key chain</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>RBF</s:tag>
+    <s:tag>Remove Before Flight</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6553117130831</id>
+      <title>Falcon</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>SPXRBFKEYFLCN</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6553117130831</id>
+      <title>Dragon</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>SPXRBFKEYDRGN</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/6555146354767</id>
+    <published>2021-04-13T09:48:42-07:00</published>
+    <updated>2021-04-13T09:48:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/drone-ship-luggage-tags"/>
+    <title>Drone Ship Luggage Tags</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SpaceX_Luggage_Tag_Set_SPXLUGTAG_BOTH.png?v=1618269303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Luggage tags come in a (2) pack:</strong><br>• (2) pack includes: Of Course I Still Love You and Just Read the Instructions</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Drone Ship</s:tag>
+    <s:tag>Key Chain</s:tag>
+    <s:tag>Luggage Tags</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/6555146354767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SPXLUGTAG</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4874354262095</id>
+    <published>2021-03-09T09:44:29-08:00</published>
+    <updated>2021-03-09T09:44:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-back-pack"/>
+    <title>SpaceX Backpack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7630.png?v=1615235953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Product Details:</strong><br>• Nylon canvas with matte canvas contrast<br>• Interior padded storage compartment for a 15" laptop<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Two-way water resistant zippers<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Interior zipped pockets<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Briefcase handle<br><span data-mce-fragment="1"><meta charset="utf-8">• Stash pockets on each side of the bag</span><br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 12" W x 18" H x 6" D</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4874354262095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>SPXCORPPACK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4874358423631</id>
+    <published>2021-03-09T09:43:23-08:00</published>
+    <updated>2021-03-09T09:43:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-duffel"/>
+    <title>SpaceX Duffel</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>SpaceX Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Merch-2021_20210308-129A7644.png?v=1615236465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpaceX Store<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>Product Details:</strong><br>• Nylon canvas with matte canvas contrast<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Water resistant zippers with faux leather pullers<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Removable padded shoulder strap<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Self carrying handle with matte black snaps<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Exterior zipped pocket with trolley sleeve<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> Stash pockets on each side of the bag<br><meta charset="utf-8"><span data-mce-fragment="1">•</span> 22" L x 14" H x 9" W <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4874358423631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>SPXCBNDFFL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4007667564623</id>
+    <published>2020-05-27T12:08:47-07:00</published>
+    <updated>2020-05-27T12:08:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/falcon-9-baseball-cap"/>
+    <title>F9 Cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_F9_Black_00000346_FRONT.png?v=1567182352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong>Size:</strong><br><span>• Flexfit S/M (6 3/4" - 7 1/4")</span><br><span>• Flexfit L/XL (7 1/8" - 7 5/8")</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cap</s:tag>
+    <s:tag>F9</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007667564623</id>
+      <title>Black / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SPXF9HTSM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007667564623</id>
+      <title>Black / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SPXF9HTLXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4007678476367</id>
+    <published>2020-05-26T12:37:40-07:00</published>
+    <updated>2020-05-26T12:37:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/dragon-cap"/>
+    <title>Dragon Cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_Dragon_Black_FRONT.png?v=1589387789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Size:</strong><br><span>• Flexfit S/M (6 3/4" - 7 1/4") </span><br><span>• Flexfit L/XL (7 1/8" - 7 5/8")</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bob</s:tag>
+    <s:tag>Cap</s:tag>
+    <s:tag>Crew</s:tag>
+    <s:tag>crew dragon</s:tag>
+    <s:tag>Demo-2</s:tag>
+    <s:tag>Doug</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007678476367</id>
+      <title>Black / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SPXDRHT2SM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007678476367</id>
+      <title>Black / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SPXDRHT2LXL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4007675265103</id>
+    <published>2019-11-26T10:23:35-08:00</published>
+    <updated>2019-11-26T10:23:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-baseball-cap"/>
+    <title>SpaceX Cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_SpaceX_Black_0001082015_FRONT_a5ff5578-c433-484d-b6b2-3b3d1f7f89d5.png?v=1597082981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong>Size:</strong><br><span>• Flexfit S/M (6 3/4" - 7 1/4")</span><br><span>• Flexfit L/XL (7 1/8" - 7 5/8")</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cap</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:tag>SpaceX</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007675265103</id>
+      <title>Black / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101739</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007675265103</id>
+      <title>Black / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101740</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007675265103</id>
+      <title>Navy / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101167</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007675265103</id>
+      <title>Navy / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101742</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.spacex.com/products/4007659667535</id>
+    <published>2019-08-22T20:21:37-07:00</published>
+    <updated>2019-08-22T20:21:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.spacex.com/products/spacex-x-baseball-cap-l-xl-black"/>
+    <title>X Cap</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_X_Navy___FRONT.png?v=1589552168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong>Size:</strong><br><span>• Flexfit S/M (6 3/4" - 7 1/4")</span><br><span>• Flexfit L/XL (7 1/8" - 7 5/8")</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:tag>Main Site</s:tag>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007659667535</id>
+      <title>Navy / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101126</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007659667535</id>
+      <title>Black / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101711</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007659667535</id>
+      <title>Navy / L/XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101708</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.spacex.com/products/4007659667535</id>
+      <title>Black / S/M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1SPX101293</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>
