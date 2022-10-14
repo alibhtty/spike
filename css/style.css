@@ -2738,6 +2738,7 @@ select::-ms-expand {
 .Linklist__Item {
     position: relative;
     display: block;
+    font-weight: 400;
     margin-bottom: 12px;
     width: 100%;
     line-height: 1.5;
